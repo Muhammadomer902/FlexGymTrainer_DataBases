@@ -1,5 +1,5 @@
 # FlexGymTrainer
-Gym Trainer made using concepts of DB(Data Base) in C#(C Sharp) language and Microsoft SQL management studio(SSMS) for the SQL part.
+Gym Trainer made using concepts of DB(Data Bases) in C#(C Sharp) language and Microsoft SQL management studio(SSMS) for the SQL part.
 First you have to signup as member or you are given permission as a trainer by admin or directly enter as owner.
 A member can tell what he is allergic to so his meal can be recommended accordingly.
 He can also tell what body part he want to target on what day so he can get the recommended exercise.
